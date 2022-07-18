@@ -1,0 +1,30 @@
+[
+	{
+		"username": "anonymous",
+		"firstName": "Anonymous",
+		"lastName": "User",
+		"hash": "nnn",
+		"accessGroups": ["loggedOutUsers"]
+	},
+	{
+		"username": "edward",
+		"firstName": "Edward",
+		"lastName": "Tanguay",
+		"hash": "nnn",
+		"accessGroups": ["loggedInUsers", "administrators"]
+	},
+	{
+		"username": "jason",
+		"firstName": "Jason",
+		"lastName": "Jenkins",
+		"hash": "nnn",
+		"accessGroups": ["loggedInUsers", "jobSeekers"]
+	},
+	{
+		"username": "richter",
+		"firstName": "Henri",
+		"lastName": "Richter",
+		"hash": "nnn",
+		"accessGroups": ["loggedInUsers", "companies"]
+	}
+]
